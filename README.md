@@ -1,6 +1,7 @@
-# LCOM Project
+# PettyCats
 
-LCOM Project for group T02-G06.
+
+The development of this program is part of the curriculum for [Computer Laboratory](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520323) course.
 
 Group members:
 
