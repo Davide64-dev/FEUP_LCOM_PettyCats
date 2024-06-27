@@ -1,5 +1,6 @@
 # PettyCats
 
+PettyCats is a game written in C for the MINIX operating system, featuring programmed drivers for peripheral devices.
 
 The development of this program is part of the curriculum for [Computer Laboratory](https://sigarra.up.pt/feup/en/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=520323) course.
 
